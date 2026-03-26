@@ -1,29 +1,32 @@
-# AI Cloud Security Copilot
+# ☁️ AI Cloud Security Copilot
 
-## Overview
-An AI-powered tool that analyzes cloud logs to detect security risks and cost inefficiencies.
+## 🚀 Overview
+The AI Cloud Security Copilot is a lightweight, intelligent system designed to analyze cloud logs and identify high-impact security risks and cost inefficiencies.
 
-## Features
-- Detects high-risk security issues
-- Identifies cost wastage
-- Provides AI-based recommendations
-- Risk scoring system
-- Visualization dashboard
-- Downloadable report
+## 💡 Problem
+Cloud environments generate numerous alerts, making it difficult for engineers to focus on critical issues. This leads to increased security vulnerabilities and unnecessary cloud spending.
 
-## How to Run
-1. Install dependencies:
-   pip install streamlit pandas
+## ✅ Solution
+Our system prioritizes only the most important alerts using a risk scoring mechanism and provides actionable recommendations for optimization.
 
-2. Run app:
-   streamlit run app.py
+## 🔥 Key Features
+- 🔐 Detects high-risk security misconfigurations
+- 💰 Identifies cloud cost wastage
+- ⚡ Risk scoring and prioritization
+- 📊 Interactive dashboard with visualizations
+- 🤖 AI-style insights and recommendations
+- 📥 Downloadable summary report
 
-## Tech Stack
+## 🧠 Innovation
+Instead of analyzing everything, our solution focuses only on high-impact signals, reducing alert fatigue and improving decision-making efficiency.
+
+## 🛠 Tech Stack
 - Python
 - Streamlit
 - JSON
+- Pandas
 
-## Impact
+## 🎯 Impact
 - Reduces cloud cost
 - Improves security posture
-- Helps faster decision making
+- Enables faster and smarter decision-making
