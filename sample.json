@@ -1,0 +1,20 @@
+[
+ {
+  "instance_id": "i-101",
+  "cpu_usage": 5,
+  "public_access": true,
+  "monthly_cost": 120
+ },
+ {
+  "instance_id": "i-102",
+  "cpu_usage": 60,
+  "public_access": false,
+  "monthly_cost": 200
+ },
+ {
+  "instance_id": "i-103",
+  "cpu_usage": 3,
+  "public_access": false,
+  "monthly_cost": 150
+ }
+]
